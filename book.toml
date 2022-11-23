@@ -1,0 +1,6 @@
+[book]
+authors = ["krzhck"]
+language = "en"
+multilingual = false
+src = "src"
+title = "blog"
